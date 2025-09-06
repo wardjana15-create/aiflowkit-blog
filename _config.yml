@@ -1,0 +1,11 @@
+title: AI FlowKit
+description: "Mastering AI for Peak Productivity"
+baseurl: ""
+url: ""
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Decap CMS configuration will be added later
