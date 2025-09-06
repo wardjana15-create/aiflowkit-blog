@@ -3,7 +3,7 @@ layout: post
 title: "5 Actionable Steps to Plan Your Week with ChatGPT"
 date: 2025-09-06 22:00:00 +0000
 categories: AI-Workflows
-image: /assets/Copilot_20250906_233657.jpeg
+image: /assets/Copilot_20250906_233657-hero.jpeg
 ---
 
 Feeling overwhelmed by the upcoming week? As a solopreneur, your time is your most valuable asset. A clear plan is the difference between a productive week and a chaotic one. Instead of staring at a blank page, let's use your AI assistant, ChatGPT, to build a powerful weekly plan.
