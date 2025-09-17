@@ -6,10 +6,14 @@ import rss from '@astrojs/rss';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://aiflowkit.xyz',
-  integrations: [mdx(), sitemap(), rss({
-    title: 'AI FlowKit Blog',
-    description: 'A blog about AI-powered personal productivity tools.',
-    // Custom data for RSS feed
-    customData: `<language>en-us</language>`,
-  })],
+  integrations: [
+    mdx(),
+    sitemap(),
+    rss({
+      title: 'AI FlowKit Blog',
+      description: 'A blog about AI-powered personal productivity tools.',
+      customData: `<language>en-us</language>`,
+    }),
+  ],
 });
+
