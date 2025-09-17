@@ -41,4 +41,26 @@ const { frontmatter } = Astro.props;
     <hr>
     <slot />
   </body>
+    <footer>
+      <hr>
+      <nav>
+        <a href="/about">About</a> | 
+        <a href="/contact">Contact</a> | 
+        <a href="/privacy-policy">Privacy Policy</a>
+      </nav>
+      <p>&copy; 2025 AI FlowKit. All rights reserved.</p>
+    </footer>
+    <style>
+      footer {
+        text-align: center;
+        margin-top: 4rem;
+        padding-top: 2rem;
+        border-top: 1px solid #ddd;
+        color: #666;
+      }
+      footer nav a {
+        margin: 0 10px;
+      }
+    </style>
+
 </html>
